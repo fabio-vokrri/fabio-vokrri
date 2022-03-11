@@ -1,4 +1,4 @@
-# HELLO WORLD! 
+# 🌍 HELLO WORLD! 
 My name is **Fabio Vokrri** and I'm a ✨ _self taught programmer_ ✨.
 
 
