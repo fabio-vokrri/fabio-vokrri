@@ -3,7 +3,7 @@ My name is **Fabio Vokrri** and I'm a ✨ _self taught programmer_ ✨.
 
 
 <div style="display: flex">
-  <img src="https://github.com/fabio-vokrri/fabio-vokrri/blob/main/Avatar.png" width="200" align="left"/>
+  <img src="https://github.com/fabio-vokrri/fabio-vokrri/blob/main/Avatar.png" width="150" align="left"/>
   <div>    
     <ul>
       <h3> This is me: </h3>
