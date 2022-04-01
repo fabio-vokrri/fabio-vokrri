@@ -11,7 +11,7 @@ My name is **Fabio Vokrri** and I'm a ✨ _self taught programmer_ ✨.
       <li>🚀 Space addicted </li>
       <li>🤖 Computer Science Engineer student @PoliMi</li>
       <li>❤️ In love with Dart and Flutter</li>
-      <li>📚 Trying to learn JavaScript</li>
+      <li>📚 Trying to learn C programming</li>
       <li>🔥 Currently working on getting better everyday</li>
     </ul>
   </div>
